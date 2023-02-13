@@ -1,2 +1,2 @@
-web: python -m http.server $PORT
+web: python run bot
 worker: bash start
